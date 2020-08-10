@@ -1,12 +1,12 @@
-# created by:       Brad Arrowood
-# created on:       2020.02.17
-# last updated:     2020.04.21
-# python version:   3.7.6
-# run format:       python3 driver.py 00302060090030005001001806400... (and so on)
-# file:             driver.py
-# addendums:        cls_addendumn.py (contains my class for the script)
-# notes:            made for edX ColumbiaX: CSMM.101x - Artificial Intelligence (AI) - week 9, project 4
-#                   addendum to driver.py to divide up the class and script, keeping this class separate from the driver.py for ease of use when working on the sudoku solver
+# created by:		Brad Arrowood
+# created on:		2020.02.17
+# last updated:		2020.04.21
+# python version:	3.7.6
+# run format:		python3 driver.py 00302060090030005001001806400... (and so on)
+# file:			driver.py
+# addendums:		cls_addendumn.py (contains my class for the script)
+# notes:		made for edX ColumbiaX: CSMM.101x - Artificial Intelligence (AI) - week 9, project 4
+#			addendum to driver.py to divide up the class and script, keeping this class separate from the driver.py for ease of use when working on the sudoku solver
 
 # first work with the AC-3 algorithm and if the grid provided needs it, which will most likely be most of the puzzles given, the BTS algorithm will run
 
