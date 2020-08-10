@@ -1,8 +1,8 @@
-# created by:      Brad Arrowood
-# last updated:	   2019.12.02
-# file:		   cls_addendum.py [addendum to driver.py]
-# notes:	   made for edX ColumbiaX: CSMM.101x - Artificial Intelligence (AI) - week 9, project 4
-# 		   addendum to driver.py to divide up the class and script, keeping this class separate from the driver.py for ease of use when working on the sudoku solver
+# created by:     Brad Arrowood
+# last updated:	  2019.12.02
+# file:		  cls_addendum.py [addendum to driver.py]
+# notes:	  made for edX ColumbiaX: CSMM.101x - Artificial Intelligence (AI) - week 9, project 4
+# 		  addendum to driver.py to divide up the class and script, keeping this class separate from the driver.py for ease of use when working on the sudoku solver
 
 # importing basics
 import sys
